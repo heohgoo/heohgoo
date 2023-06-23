@@ -4,7 +4,7 @@
 ### (Hyeong Goo, Heo) 
 
 
-I want to be web developer and software engineer growing constantly.
+I want to be web developer and software engineer growing constantly and continuously.
 
 
 🛠️ Stacks
