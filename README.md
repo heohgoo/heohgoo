@@ -16,7 +16,7 @@ I want to be web developer and software engineer growing constantly.
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height=20>
 
 
-<img src="https://github.com/heohgoo/heohgoo/assets/95553132/1d853894-5c9d-40fa-81d8-e0afeb0a0564" height=25> Learning
+<img src="https://github.com/heohgoo/heohgoo/assets/95553132/1d853894-5c9d-40fa-81d8-e0afeb0a0564" height=25> Learning & Studying
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height=20> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height=20> ![image](https://github.com/heohgoo/heohgoo/assets/95553132/fbda2bb8-23bc-4d59-8aa4-b5a717f4bd0f)
 
