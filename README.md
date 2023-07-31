@@ -1,6 +1,6 @@
 <div align="center">
   
-## To Be Web Full Stack Developer👋
+## To Be Developer👋
 ### (Hyeong Goo, Heo) 
 
 
