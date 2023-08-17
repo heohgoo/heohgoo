@@ -1,6 +1,6 @@
 <div align="center">
   
-## To Be Developer👋
+## Personal Statement 👋
 ### (Hyeong Goo, Heo) 
 
 
