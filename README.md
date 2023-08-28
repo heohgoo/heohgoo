@@ -14,11 +14,12 @@ I want to be **web developer** and **software engineer** growing constantly and 
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/2b962fe6-122f-46db-b89a-7c0914f8503b)
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/5342f332-10a4-4422-ae52-f9b0b71d1360)
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height=20> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height=20>
 
 
 🎫Learning & Studying
 
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height=20> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height=20>  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height=20> <img src="https://img.shields.io/badge/mongodb-61DAFB?style=flat-square&logo=mongodb&logoColor=white" height=20>
 
 
 
