@@ -19,7 +19,7 @@ I want to be **web developer** and **software engineer** growing constantly and 
 
 🎫Learning & Studying
 
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height=20> <img src="https://img.shields.io/badge/mongodb-61DAFB?style=flat-square&logo=mongodb&logoColor=white" height=20>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height=20> <img src="https://img.shields.io/badge/Mongodb-6DB33F?style=flat-square&logo=mongodb&logoColor=white" height=20>
 
 
 
