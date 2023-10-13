@@ -7,7 +7,7 @@
 I want to be **web developer** and **software engineer** growing constantly and continuously.
 
 
-🛠️ Stacks
+🛠️ `Stacks`
 
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/ae630145-e479-4d0b-9d69-53d834af4ce7)
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/60b5ef2e-8452-4de4-a1bf-17c0e4c1ce6c)
@@ -17,13 +17,13 @@ I want to be **web developer** and **software engineer** growing constantly and 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" height=20> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot&logoColor=white" height=20>
 
 
-🎫Learning & Studying
+🎫 `Learning & Studying`
 
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height=20> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white" height=20> <img src="https://img.shields.io/badge/Mongodb-6DB33F?style=flat-square&logo=mongodb&logoColor=white" height=20>
 
 
 
-💪🏼 Tools
+💪🏼 `Tools`
 
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/f998bea9-ac61-4d04-b54a-f0a2aea5ccd3)
 ![image](https://github.com/heohgoo/heohgoo/assets/95553132/33d3e9a5-5b5b-4a81-9e64-f0392de823c2)
